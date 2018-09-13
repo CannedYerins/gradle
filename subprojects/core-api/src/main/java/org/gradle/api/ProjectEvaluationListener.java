@@ -16,7 +16,7 @@
 package org.gradle.api;
 
 /**
- * <p>An {@code ProjectEvaluationListener} is notified when a project is evaluated. You add can add an {@code
+ * <p>A {@code ProjectEvaluationListener} is notified when a project is evaluated. You can add a {@code
  * ProjectEvaluationListener} to a {@link org.gradle.api.invocation.Gradle} using {@link
  * org.gradle.api.invocation.Gradle#addProjectEvaluationListener(ProjectEvaluationListener)}.</p>
  */
